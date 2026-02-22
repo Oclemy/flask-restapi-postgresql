@@ -4,6 +4,10 @@ A minimal, production-ready Flask REST API with CRUD, PostgreSQL, pagination, an
 
 ---
 
+## One-click Deploy
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/Qp7bSt?referralCode=-Xd4K_&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 ## Quick Start (Local)
 
 ```bash
